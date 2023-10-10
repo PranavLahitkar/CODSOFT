@@ -22,6 +22,7 @@ public class number_game_codsoft {
 			if(score==ch) {
 			
 			System.out.println("Sorry you have reached the max attempts:(\n try again later");
+			System.out.println("The number was :\t"+random_no);
 			break;
 			
 			}
