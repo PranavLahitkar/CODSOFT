@@ -1,2 +1,2 @@
 # CODSOFT
-internship yaska at CODSOFT
+internship Tasks at CODSOFT
